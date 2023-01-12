@@ -66,4 +66,10 @@ class StudentController extends Controller
         flash()->addSuccess('student update succuesfuly');
         return redirect(route('show.students'));
     }
+
+
+    public function dkdkdkd()
+    {
+        kjasdfklj asdlkfjaskl;
+    }
 }
